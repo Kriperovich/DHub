@@ -24,7 +24,8 @@ DHub is a universal launcher for various DOOM launchers, providing a convenient 
 3. Install the Python library dependencies:
    ```bash
    pip install pygame
-4. ```bash
+4. Start
+   ```bash
    python main.py
 
 (or use release from [releases](https://github.com/Kriperovich/DHub/releases))
