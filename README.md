@@ -27,4 +27,4 @@ DHub is a universal launcher for various DOOM launchers, providing a convenient 
 4. ```bash
    python main.py
 
-(or use release from [releases](lol.com))
+(or use release from [releases](https://github.com/Kriperovich/DHub/releases))
