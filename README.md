@@ -20,7 +20,7 @@ DHub is a universal launcher for various DOOM launchers, providing a convenient 
 ## Installation
 
 1. Clone or download the repository to your computer.
-2. Ensure that the required icon file (`icon.png`) is located in the `dontdownload/` directory.
+2. Ensure that the required icon file (`icon.png`) is located in the `main` directory.
 3. Install the Python library dependencies:
    ```bash
    pip install pygame
