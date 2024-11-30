@@ -1,6 +1,6 @@
 # DHub
 
-![DHub Icon](dontdownload/icon.png)
+![DHub Icon](icon.png)
 
 DHub is a universal launcher for various DOOM launchers, providing a convenient interface to manage and launch DOOM engines like GZDoom, Chocolate Doom, ZDoom, and more.
 
